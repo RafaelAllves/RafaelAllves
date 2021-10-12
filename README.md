@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RafaelAllves
 - 👀 I’m interested in technology and hacking
-- 🌱 I’m currently learning web development
+- 🌱 I'm currently working with web development
 - 📫 How to reach me https://www.linkedin.com/in/rafaelalves91
 
 <!---
